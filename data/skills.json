@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Android Development - Kotlin, Java" : "100",
+		"iOS Development - Swift" : "70",
+		"Flutter Development - Dart" : "80",
+		"Release Managment" : "75"
+	}
+}

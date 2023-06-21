@@ -1,0 +1,24 @@
+{
+	"title" : "",
+	"services" : [
+		{
+			"icon" : "YV.webp",
+			"link" : "https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=en_US&gl=US"
+		},
+		{
+			"icon" : "sleep.webp",
+			"link": "https://apps.apple.com/us/app/isla-grace-sleep/id1598060323"
+		},
+		{
+			"icon" : "aoge.png"
+		},
+		{
+			"icon" : "v60.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.kaseyschlaudt.capulus&hl=en&gl=US"
+		},
+		{
+			"icon" : "hangtimer.webp",
+			"link": "https://play.google.com/store/apps/details?id=com.kaseyschlaudt.hangboardtimer&hl=en&gl=US"
+		}
+	]
+}

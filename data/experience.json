@@ -1,0 +1,27 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "March 2016 - January 2018",
+			"company" : "Learning the ropes",
+			"description" : "My first app was a Flappy Bird clone from a YT video. I fell in love with coding and published 5 apps to the AppStore that year."
+		},
+		{
+			"timeperiod" : "June 2017",
+			"company" : "Apple Developer Scholarship",
+			"website": "https://www.aop.com/blog/alpha-omega-academy-graduate-uses-technology-to-prevent-suicides",
+			"description" : "I built a creative Swift Playground to help prevent suicides in my community which then lead to Apple awarding me a Scholarship."
+		},
+		{
+			"timeperiod" : "January 2018 - March 2023",
+			"company" : "YouVersion",
+			"website": "https://www.youversion.com/",
+			"description" : "As a Android Engineer at YouVersion we help people around the world engage with God’s Word by developing, refining, and growing the YouVersion Bible App mobile experience on Android devices."
+		},
+		{
+			"timeperiod" : "March 2023 - June 2023",
+			"company" : "America's Oil & Gas Exchange",
+			"description" : "At AOGE we made oil and gas investing easy and accessable for everyone regardless of their background. (We unfortunatly ran out of funding and had to shut down)"
+		}
+	]
+}
